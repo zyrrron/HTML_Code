@@ -66,9 +66,9 @@
 
   $('body').append("  <style id=\"style-tag\"></style>\n<span id=\"echo\"></span>\n<span id=\"heart\"><i></i></span>\n<pre id=\"style-text\"></pre>\n  <div style = 'position: fixed;left: 30px;bottom: 10px;'>\n  </a> <a style='color: #fff' target=\"_blank\" href='http://chuye.cloud7.com.cn/61173048?from=weixin'>文末福利！</a>\n  </div>");
 
-  commentTime = 0.1;
+  commentTime = 0.5;
 
-  codeTime = 0.1;
+  codeTime = 0.01;
   // commentTime = 60;
   // 
   // codeTime = 20;
